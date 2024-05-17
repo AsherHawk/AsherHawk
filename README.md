@@ -7,7 +7,7 @@
 <h2>👨‍💻 School Projects Portfolio:</h2>
 
 - [ISP User Subscription Database](https://github.com/AsherHawk/ISP-UserSubscription-Database-Project)
-- [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+
 
 
 <h2>📈 Current Professional Development Strides:</h2>
