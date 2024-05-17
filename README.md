@@ -1,4 +1,4 @@
-<h1>Hi, I'm Asher! </h1>
+ <h1>Hi, I'm Asher! </h1>
 
 <h2>📄 Certifications:</h2>
 
@@ -6,10 +6,8 @@
 
 <h2>👨‍💻 School Projects Portfolio:</h2>
 
-- <b>ISP User Subscription Database</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Tech Communication Solution</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- [ISP User Subscription Database](https://github.com/AsherHawk/ISP-UserSubscription-Database-Project)
+- [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 
 
 <h2>📈 Current Professional Development Strides:</h2>
