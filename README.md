@@ -13,7 +13,7 @@
 <h2>📈 Current Professional Development Strides:</h2>
 
 - [Hands-on Learning: AWS Cloud for Beginners](https://www.whizlabs.com/aws-beginners-training-hands-on-labs/)
-- [ServiceNow Certified System Administrator Certification](https://nowlearning.servicenow.com/lxp/en/pages/servicenow)
+
 
 
 
