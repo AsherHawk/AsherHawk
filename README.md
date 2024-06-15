@@ -3,6 +3,7 @@
 <h2>📄 Certifications:</h2>
 
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/a560ad7e-4045-4ef2-9734-42ca36158418/linked_in_profile)
+- [Red Hat Ansible Automation Platform: Seller](https://www.credly.com/badges/6fef3c3a-ccf5-4e77-ac33-b795594e81e9/public_url)
 
 <h2>👨‍💻 School Projects Portfolio:</h2>
 
