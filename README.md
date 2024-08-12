@@ -17,6 +17,7 @@
 <h2>📈 Current Professional Development Strides:</h2>
 
 - [Hands-on Learning: AWS Cloud for Beginners](https://www.whizlabs.com/aws-beginners-training-hands-on-labs/)
+- [Red Hat Certified Specialist in Containers](https://training-lms.redhat.com/lmt/clmslearningpathdetails.prmain?in_sessionId=49843820J93A4A45&in_learningPathId=48306229&in_from_module=LMTLOGIN.PRMENU)
 
 
 
