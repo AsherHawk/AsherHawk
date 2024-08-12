@@ -6,6 +6,7 @@
 - [Red Hat Ansible Automation Platform: Seller](https://www.credly.com/badges/6fef3c3a-ccf5-4e77-ac33-b795594e81e9/public_url)
 - [Red Hat Ansible Automation Platform: Technical Seller](https://www.credly.com/badges/5bf98109-87c4-4a91-aaa4-9efa119226a0/public_url)
 - [Red Hat OpenShift: Seller](https://www.credly.com/badges/adeed761-c05d-4ca4-8f98-de4b7a3d828c/public_url)
+- [Red Hat OpenShift: Technical Seller](https://www.credly.com/badges/e0fe013a-0cce-426a-aacd-9fbfce39ecfa)
   
 <h2>👨‍💻 School Projects Portfolio:</h2>
 
